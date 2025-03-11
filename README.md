@@ -37,7 +37,7 @@ git clone <https://github.com/SarahCristina00/SudokuSS.git>
 
 2️⃣ Acesse a pasta do projeto:
 
-cd sudoku-java
+cd Sudokuss
 
 3️⃣ Instale as dependências:
 
@@ -45,7 +45,7 @@ mvn install
 
 4️⃣ Rode o jogo:
 
-java -jar target/sudoku.jar
+java -jar target/Sudokuss.jar
 
 🎯 Extras
 ✅ O programa impede jogadas inválidas!
